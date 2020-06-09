@@ -1,0 +1,14 @@
+[
+{
+"id":"1",
+"jogador":"cliente",
+"vitorias":"0",
+"derrotas":"0"
+},
+{
+"id":"2",
+"jogador":"servidor",
+"vitorias":"0",
+"derrotas":"0"
+}
+]
